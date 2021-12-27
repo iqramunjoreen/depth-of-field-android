@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Depth Of Field Calculator</string>
+    <string name="make">Make</string>
+    <string name="focallength">focallength</string>
+    <string name="aperture">Aperture</string>
+</resources>
